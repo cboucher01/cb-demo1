@@ -3,6 +3,6 @@ date,Date,,,Date Created
 description,,,true,
 creator,Creator,,,
 subject,,true
-color,Color,,,Color,Color
+color,Color,,,
 location,,true,,,Location Depicted
 identifier,,,true,Identifier
