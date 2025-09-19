@@ -1,5 +1,5 @@
 objectid,parentid,title,creator,date,date-is-approximate?,description,color,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
-demo_001,,Buttercup,,2025,TRUE,,yellow,,,,,,,Image;StillImage,image/jpeg,,,,image,/objects/demo_001.jpeg,/objects/demo_001.jpeg,/objects/demo_001.jpeg,A yellow buttercup flower on a white background.,
+demo_001,,Buttercup,,-20000,TRUE,,yellow,,,,,,,Image;StillImage,image/jpeg,,,,image,/objects/demo_001.jpeg,/objects/demo_001.jpeg,/objects/demo_001.jpeg,A yellow buttercup flower on a white background.,
 ,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
@@ -15,4 +15,5 @@ demo_001,,Buttercup,,2025,TRUE,,yellow,,,,,,,Image;StillImage,image/jpeg,,,,imag
 ,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
+
 ,,,,,,,,,,,,,,,,,,,,,,,,
